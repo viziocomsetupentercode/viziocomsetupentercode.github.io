@@ -33,7 +33,7 @@ Where can I find the user manual for my Vizio TV?
 You can find the user manual for your VIZIO TV by visiting the official VIZIO Support website's User Manual Search page:
 
 1. Visit the User Manual Search page.
-2. Enter your TV's model number** in the search field.
+2. Enter your **TV's model number** in the search field.
 3. **Click on the appropriate result** to access and download the manual.
 
 
