@@ -17,7 +17,7 @@ How to Link my VIZIO Account to Smart TV at Vizio.com/setup?
 2. Press the "V" button on your VIZIO remote to open the SmartCast menu.
 3. Navigate to the 'Account' section by selecting the profile icon or settings.
 4. Log in or create a VIZIO account if you don’t have one.
-5. Visit **[vizio.com/setup](https://fm.ci?aHR0cHM6Ly92aXppby1zZXR1cC5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=)** on a separate device (phone or computer).
+5. Visit ***[vizio.com/setup](https://fm.ci?aHR0cHM6Ly92aXppby1zZXR1cC5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=)*** on a separate device (phone or computer).
 6. Enter the code displayed on your TV to link your device to your VIZIO account.
 7. Activate streaming services by signing into your desired apps (Netflix, Hulu, etc.) on your TV.
 
