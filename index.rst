@@ -1,7 +1,7 @@
 Vizio.com/setup Enter Code
 ===============
 
-To activate your VIZIO TV, go to **`vizio.com/setup <https://fm.ci?aHR0cHM6Ly92aXppby1zZXR1cC5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=>`_**, sign in, and enter the code displayed on your TV screen. You can also scan the QR code for a faster activation process.
+To activate your VIZIO TV, go to **`vizio.com/setup <https://www.vizio.com/setup>`_**, sign in, and enter the code displayed on your TV screen. You can also scan the QR code for a faster activation process.
 
 .. image:: enter-code-button.png
    :alt: vizio.com/setup
