@@ -5,7 +5,7 @@ To activate your VIZIO TV, go to **vizio.com/setup**, sign in, and enter the cod
 
 .. image:: enter-code-button.png
    :alt: vizio.com/setup
-   :target: https://fm.ci?aHR0cHM6Ly92aXppby1zZXR1cC5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://ww0.us?aHR0cHM6Ly9zZXR1cHZpemlvLmdvcmdpYXMuaGVscC9lbi1VUw==
 
 
 
